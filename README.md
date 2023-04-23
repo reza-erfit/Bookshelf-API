@@ -32,3 +32,7 @@ Evaluasi pembelajaran:
 Total jam yang dibutuhkan untuk menyelesaikan kelas ini, mulai dari persiapan kelas sampai evaluasi belajar, adalah **45** jam.
 
 [Show Credential](https://www.dicoding.com/certificates/EYX49D3K6PDL)
+
+## LICENSE
+
+[MIT LICENSE](LICENSE)
